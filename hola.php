@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html>
     <head>
+        
         <meta charset="utf-8">
         <title>Primer php</title>
     </head>
     <body>
-        <?php echo "Hola Marco campeon!!!!" ?>
+        <?php echo "Hola Marco eres un super campeon!!!!" ?>
     </body>
 </html>
